@@ -1,7 +1,11 @@
 # Wallace-Henrique
-- eu sou wallace henrique de mello castro  
+- Meu nome é wallace henrique de mello castro
 
-- gosto muito dos filmes de star wars e de jurassic park 
+- estou me disinvolvendo na prataforma alura
+  
+- [alura](https://www.alura.com.br/)
+
+- Gosto muito dos filmes de star wars e de jurassic park 
 
 - minha materia favorita e matematica e geografia 
 
